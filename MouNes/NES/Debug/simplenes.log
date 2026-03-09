@@ -1,0 +1,8 @@
+[C:\Users\taharayen\Desktop\6502--\MouNes\ConsoleApplication1\src\Cartridge.cpp:52] Reading ROM from path: NEStress.NES
+[C:\Users\taharayen\Desktop\6502--\MouNes\ConsoleApplication1\src\Cartridge.cpp:70] Reading header, it dictates: 
+[C:\Users\taharayen\Desktop\6502--\MouNes\ConsoleApplication1\src\Cartridge.cpp:73] 16KB PRG-ROM Banks: 2
+[C:\Users\taharayen\Desktop\6502--\MouNes\ConsoleApplication1\src\Cartridge.cpp:81] 8KB CHR-ROM Banks: 1
+[C:\Users\taharayen\Desktop\6502--\MouNes\ConsoleApplication1\src\Cartridge.cpp:91] Name Table Mirroring: Vertical
+[C:\Users\taharayen\Desktop\6502--\MouNes\ConsoleApplication1\src\Cartridge.cpp:95] Mapper #: 0
+[C:\Users\taharayen\Desktop\6502--\MouNes\ConsoleApplication1\src\Cartridge.cpp:98] Extended (CPU) RAM: false
+[C:\Users\taharayen\Desktop\6502--\MouNes\ConsoleApplication1\src\Cartridge.cpp:112] ROM is NTSC compatible.

@@ -1,0 +1,8 @@
+[G:\Users\tatou\Desktop\mourad-----\cours uprocsseursN\MouNes\NES\src\Cartridge.cpp:52] Reading ROM from path: NEStress.NES
+[G:\Users\tatou\Desktop\mourad-----\cours uprocsseursN\MouNes\NES\src\Cartridge.cpp:70] Reading header, it dictates: 
+[G:\Users\tatou\Desktop\mourad-----\cours uprocsseursN\MouNes\NES\src\Cartridge.cpp:73] 16KB PRG-ROM Banks: 2
+[G:\Users\tatou\Desktop\mourad-----\cours uprocsseursN\MouNes\NES\src\Cartridge.cpp:81] 8KB CHR-ROM Banks: 1
+[G:\Users\tatou\Desktop\mourad-----\cours uprocsseursN\MouNes\NES\src\Cartridge.cpp:91] Name Table Mirroring: Vertical
+[G:\Users\tatou\Desktop\mourad-----\cours uprocsseursN\MouNes\NES\src\Cartridge.cpp:95] Mapper #: 0
+[G:\Users\tatou\Desktop\mourad-----\cours uprocsseursN\MouNes\NES\src\Cartridge.cpp:98] Extended (CPU) RAM: false
+[G:\Users\tatou\Desktop\mourad-----\cours uprocsseursN\MouNes\NES\src\Cartridge.cpp:112] ROM is NTSC compatible.

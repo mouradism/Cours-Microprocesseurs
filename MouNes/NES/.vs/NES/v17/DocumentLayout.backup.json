@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Users\\tatou\\Desktop\\mourad-----\\cours uprocsseursN\\MouNes\\NES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\taha\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-6d3b603a-82b3-4828-ba41-614219bd14f3.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D0672-C351-41F2-BAF6-180D7DEFB8C1}|ConsoleApplication1.vcxproj|G:\\Users\\tatou\\Desktop\\mourad-----\\cours uprocsseursN\\MouNes\\NES\\ConsoleApplication1.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{284D0672-C351-41F2-BAF6-180D7DEFB8C1}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284D0672-C351-41F2-BAF6-180D7DEFB8C1}|ConsoleApplication1.vcxproj|G:\\Users\\tatou\\Desktop\\mourad-----\\cours uprocsseursN\\MouNes\\NES\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{284D0672-C351-41F2-BAF6-180D7DEFB8C1}|ConsoleApplication1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plan-6d3b603a-82b3-4828-ba41-614219bd14f3.md",
+              "DocumentMoniker": "C:\\Users\\taha\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-6d3b603a-82b3-4828-ba41-614219bd14f3.md",
+              "ToolTip": "C:\\Users\\taha\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-6d3b603a-82b3-4828-ba41-614219bd14f3.md [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-14T14:47:14.441Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApplication1.vcxproj",
+              "DocumentMoniker": "G:\\Users\\tatou\\Desktop\\mourad-----\\cours uprocsseursN\\MouNes\\NES\\ConsoleApplication1.vcxproj",
+              "RelativeDocumentMoniker": "ConsoleApplication1.vcxproj",
+              "ToolTip": "G:\\Users\\tatou\\Desktop\\mourad-----\\cours uprocsseursN\\MouNes\\NES\\ConsoleApplication1.vcxproj",
+              "RelativeToolTip": "ConsoleApplication1.vcxproj",
+              "ViewState": "AgIAAMcAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2026-01-14T14:45:09.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "G:\\Users\\tatou\\Desktop\\mourad-----\\cours uprocsseursN\\MouNes\\NES\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "G:\\Users\\tatou\\Desktop\\mourad-----\\cours uprocsseursN\\MouNes\\NES\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T12:26:15.547Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
