@@ -1,4 +1,8 @@
 # Cours Microprocesseurs
+<img width="429" height="894" alt="image" src="https://github.com/user-attachments/assets/a3575ded-47fe-43b3-a0cb-55b216ac4d72" />
+<img width="674" height="627" alt="image" src="https://github.com/user-attachments/assets/e3cc19db-e80a-46c1-8009-2756e4bd9f12" />
+<img width="650" height="512" alt="image" src="https://github.com/user-attachments/assets/6909c286-c476-4ce0-a00c-753647d45046" />
+
 
 This repository contains course materials and projects for microprocessors and computer architecture.
 
@@ -61,3 +65,8 @@ Educational purposes only.
 Inspired by binary computing principles and CPU architecture design 8-bit compute // Ben Eater
 
 https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU
+<img width="686" height="854" alt="image" src="https://github.com/user-attachments/assets/6095efd3-0200-4c16-9950-44cb392edb6c" />
+<img width="617" height="577" alt="image" src="https://github.com/user-attachments/assets/ef2a4038-3353-440d-8fbb-070515b2de7e" />
+<img width="599" height="638" alt="image" src="https://github.com/user-attachments/assets/093a73c7-9270-4975-8dbc-2b420ff015b2" />
+
+
