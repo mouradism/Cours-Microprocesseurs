@@ -2,6 +2,17 @@
 
 This repository contains course materials and projects for microprocessors and computer architecture.
 
+## Overview
+
+This collection represents hands-on learning in:
+- **Digital Logic Design** - Building fundamental circuits using flip-flops, gates, and logic components
+- **Computer Architecture** - Understanding how processors work from the ground up
+- **Memory Systems** - Implementing and testing RAM and storage systems
+- **System Integration** - Combining components into functional computer systems
+- **Emulation & Software** - Practical application through NES emulator development
+
+The projects progress from basic logic circuits to complete computer system designs, providing a comprehensive understanding of how computers work at the hardware level.
+
 ## Contents
 
 ### Projects
