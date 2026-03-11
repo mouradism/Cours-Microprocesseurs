@@ -3,10 +3,6 @@
 https://github.com/user-attachments/assets/5a0db813-00fc-41fc-bc43-334dbdbc06b8
 
 
-
-https://github.com/user-attachments/assets/16edc8e7-2fd4-4125-bc17-bcc4ded8326a
-
-
 This repository contains course materials and projects for microprocessors and computer architecture.
 
 ## Overview
